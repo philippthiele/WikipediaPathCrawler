@@ -8,7 +8,7 @@ import java.util.Date;
 public class Main {
 	
 	public static String start;
-	public static String end = "https://de.wikipedia.org/wiki/Adolf_Hitler";
+	public static String end = "https://de.wikipedia.org/wiki/Altgriechische_Sprache";
 	public static int maxDepth = 4;
 	public static ArrayList<String> linksDone = new ArrayList<String>();
 	public static boolean useThreads = true;
